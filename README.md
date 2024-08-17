@@ -6,6 +6,7 @@ Features:
 RFID-based Access: Users can unlock rooms using secure RFID keycards.
 User Authentication: Implemented secure access control to verify users.
 High Reliability: Achieved 95% success rate in authentication during testing.
+
 Technologies Used:
 Arduino for controlling the RFID reader and managing access logic.
 C++ for programming the Arduino and handling the authentication process.
